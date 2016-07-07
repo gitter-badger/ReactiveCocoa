@@ -24,6 +24,8 @@ own](https://github.com/ReactiveCocoa/ReactiveCocoa/issues/new)!
 
 #### Compatibility
 
+[![Join the chat at https://gitter.im/dudulu00/ReactiveCocoa](https://badges.gitter.im/dudulu00/ReactiveCocoa.svg)](https://gitter.im/dudulu00/ReactiveCocoa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This documents the RAC 4 which targets `Swift 2.2.x`. For `Swift 1.2` support see [RAC
 3](https://github.com/ReactiveCocoa/ReactiveCocoa/tree/v3.0.0).
 
